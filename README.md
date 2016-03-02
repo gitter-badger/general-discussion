@@ -1,2 +1,3 @@
-# general-discussion
-Discussion board DSC related topics. Contain new ideas to implement, documentation files and presentations.
+# General Discussion
+
+(https://badges.gitter.im/linuxenko/umediashare.svg)](https://gitter.im/b37t1td/general-discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
